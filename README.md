@@ -7,7 +7,9 @@
 A computational exploration of 3D hypergraphs inspired by Stephen Wolfram's models, generating complex structures through simple evolutionary rules.
 
 
-![Hypergraph Evolution Demo](https://private-user-images.githubusercontent.com/110956323/403197700-37b39374-a829-4f24-b0c9-637fd861dbba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc3Njg5MTEsIm5iZiI6MTczNzc2ODYxMSwicGF0aCI6Ii8xMTA5NTYzMjMvNDAzMTk3NzAwLTM3YjM5Mzc0LWE4MjktNGYyNC1iMGM5LTYzN2ZkODYxZGJiYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyNVQwMTMwMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDBkM2U2YjY3MGNhMjhkMzFkOTdiM2Q1Njc5ZDE4Y2U2MmFiOGJlYTJiZTg1NGIzNGIzZWY5ZmZhM2RhNDkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3EjADMmEhF0UXkA64rcD42woNbiKyVGNsYFOgddIgcY)
+![image](https://github.com/user-attachments/assets/7a51a7e5-cb98-47c0-9813-4c41237cdd2b)
+
+
 ## Key Features ✨
 - **3D Organic Growth**: Wolfram-style rule-based evolution
 - **Interactive Visualization**: Real-time 3D manipulation with camera controls
