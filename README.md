@@ -6,6 +6,7 @@
 
 A computational exploration of 3D hypergraphs inspired by Stephen Wolfram's models, generating complex structures through simple evolutionary rules.
 
+# See the note here! -> ![Link](https://github.com/TomyHertz/Wolfram-hypergraphs/blob/FirstAttempts/README.md)
 
 ![image](https://github.com/user-attachments/assets/7a51a7e5-cb98-47c0-9813-4c41237cdd2b)
 
