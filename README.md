@@ -13,19 +13,6 @@ A 2D implementation of Wolfram-style hypergraph evolution with dynamic visualiza
 - **Timelapse Evolution**: Step-through observation of pattern growth
 - **Simple Interface**: Straightforward parameter adjustment for experimentation
 
-## Installation ⚙️
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/wolfram-hypergraphs.git
-
-# Install requirements
-pip install -r requirements.txt
-
-# Core dependencies:
-networkx >= 3.0
-matplotlib >= 3.5
-```
 # Basic Usage 🚀
 ```python
 from hypergraph_simulator import visualize_timelapse
