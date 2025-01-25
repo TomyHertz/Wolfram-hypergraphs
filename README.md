@@ -59,8 +59,8 @@ def apply_rule(hyperedge, current_max_node):
   - 2D spring layout visualization  
   - Step-through timelapse  
   
-## Images of the exectutions
-
+## A few images of the exectutions
+### The relation of this examples are: [[1, 2], [2, 3], [3, 4], [2, 4]] following the Wolfram Rule = {x, y}, {x, z} -> {x, z}, {x, w}, {y, w}, {z, w}
 ![Figure_1](https://github.com/user-attachments/assets/8e77c3be-c5a6-48b7-9963-4d9f9e591b64)
 ![Figure_2](https://github.com/user-attachments/assets/220ae338-996a-4a26-8e5d-aa82ec2826cb)
 ![Figure_3](https://github.com/user-attachments/assets/e21db71c-dca7-42cc-a53b-77401a0552c7)
