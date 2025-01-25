@@ -1,16 +1,22 @@
-# Wolfram-hypergraphs
-In this Repository I will try to create Wolfram Hypergraphs, and document my path into make one of those attonishing graphs that almost look 3D
-# Libraries
-We will use these libraries in order to make the graphics.
+# Wolfram-Style Hypergraphs 🌐
+
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.guide/)
+
+A computational exploration of 3D hypergraphs inspired by Stephen Wolfram's models, generating complex structures through simple evolutionary rules.
+
+![Hypergraph Evolution Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFlbDBuajIxOGszaDh2NDNpZjZyOXVqanl0dGRrMXNrMDFqandsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif)
+
+## Key Features ✨
+- **3D Organic Growth**: Wolfram-style rule-based evolution
+- **Interactive Visualization**: Real-time 3D manipulation with camera controls
+- **Modular Architecture**: Easily extendable rule system
+- **Multi-Scale Simulation**: From molecular to cosmic structural patterns
+
+## Tech Stack 🛠️
 ```python
-import networkx as nx
-import matplotlib.pyplot as plt
-```
-The usage of ``` matplotlib ``` integrates with  ``` networkx ```, to draw nodes on a 2 dimensional plane and allows customization of the graph layout, colors, sizes and labels.
-
-I will be updating for the errors that I encounter and how to solve them. 
-
-
-The main idea is to get something like this using python
-
-![image](https://github.com/user-attachments/assets/37b39374-a829-4f24-b0c9-637fd861dbba)
+import networkx as nx         # Graph theory backbone
+import plotly.graph_objects as go  # WebGL-powered visualization
+import numpy as np            # Vectorized operations
+from tqdm import tqdm         # Progress visualization
