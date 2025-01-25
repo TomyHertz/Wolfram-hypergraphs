@@ -68,7 +68,7 @@ def apply_rule(hyperedge, current_max_node):
 ![Figure_5](https://github.com/user-attachments/assets/16646597-246d-4d2f-894b-d3dad92f6807)
 ![Figure_6](https://github.com/user-attachments/assets/3b656fa7-dbdf-49a3-a151-99a2535add95)
 
-##After this step it turns chaotic I57
+## After this step it turns chaotic Just to show you.
 ![Figure_7](https://github.com/user-attachments/assets/d17c872a-1483-454f-87fe-e3d9ef3819e4)
 
 ![Figure_8](https://github.com/user-attachments/assets/9d2ae298-51a9-403c-a48f-5c8c6c24e55a)
